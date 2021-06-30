@@ -1,0 +1,21 @@
+.Votes {
+  margin: 20px;
+}
+
+.Votes .vote-bar {
+  height: 20px;
+  margin: 10px 0;
+  border: 1px dashed black;
+}
+
+.Votes .chocolate {
+  background-color: chocolate;
+}
+
+.Votes .vanilla {
+  background-color: beige;
+}
+
+.Votes .strawberry {
+  background-color: pink;
+}
